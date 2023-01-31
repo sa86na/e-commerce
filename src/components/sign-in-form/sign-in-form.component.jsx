@@ -8,7 +8,7 @@ import {
     signinAuthUserWithEmailAndPassword 
 } from '../../utils/firebase/firebase.utils';
 
-import { ButtonsContainer, SignUpContainer, H2} from './sign-in-form.styles';
+import { ButtonsContainer, SignUpContainer } from './sign-in-form.styles';
 
 const defaultformFields = {
     email: '',

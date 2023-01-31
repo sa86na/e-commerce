@@ -4,8 +4,6 @@ import CategoriesPreview from '../categories-preview/categories-preview.componen
 
 import Category from '../category/category.component';
 
-import { ProductsContainer } from './shop.styles';
-
 const Shop = () => {
 
     return (
